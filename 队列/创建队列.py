@@ -24,6 +24,9 @@
 
 
 
+
+
+
 # 链表创建队列
 class Node:
     def __init__(self,data):
